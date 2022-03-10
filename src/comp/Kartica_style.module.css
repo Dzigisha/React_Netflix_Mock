@@ -1,0 +1,21 @@
+.naziv {
+    text-align: left;
+    color: aliceblue;
+}
+.bg {
+    background-color: #000000;
+    
+    
+}
+.slikica {
+        width: auto;
+        height: 176px;
+        border-radius:15px 0px 0px 15px;
+        
+
+  
+  
+}
+.drugi_deo {
+    background:linear-gradient(to right, #000000)
+}

@@ -1,0 +1,69 @@
+
+.backdrop{
+    position: fixed;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.75);
+  width: 100%;
+  height: 100vh;
+  top: 0;
+  left: 0;
+}
+.kartica {
+   
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    background-color: #09090f;
+   
+    text-align: center;
+    width: 50rem;
+    z-index: 10;
+    position: fixed;
+    top: 20vh;
+    left: calc(50% - 25rem);
+    
+}
+.text {
+    color:rgba(255, 255, 255, 0.774);
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 40px;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+font-family: 'Source Code Pro', monospace;
+}
+.ocena{
+    font-family: 'Roboto', sans-serif;
+    color:rgba(255, 255, 255);
+    font-size: 30px;
+    margin-left: 100px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 6px;
+    
+}
+.opis {
+    color:rgba(255, 255, 255, 0.774);
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right:30px ;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    padding-bottom: 30px;
+}
+
+.godina {
+    color:rgba(255, 255, 255, 0.774);
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 40px;
+    font-size: 20px;
+}
+.slikica {
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 400px;
+    width: auto;
+    
+    
+}
